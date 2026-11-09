@@ -7,9 +7,14 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   refresh:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -31,3 +36,10 @@ jobs:
           git add data/jobs.json data/refresh-report.json
           git commit -m "chore: refresh official career data"
           git push
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: .
+      - name: Deploy refreshed tracker to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

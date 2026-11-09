@@ -18,6 +18,15 @@ class ProjectFilesTests(unittest.TestCase):
         self.assertIn("python -m unittest discover", workflows)
         self.assertNotIn("secrets.", workflows)
 
+    def test_scheduled_refresh_deploys_the_generated_data_it_commits(self):
+        workflow = (ROOT / ".github" / "workflows" / "refresh.yml").read_text(encoding="utf-8")
+        self.assertIn("pages: write", workflow)
+        self.assertIn("id-token: write", workflow)
+        self.assertIn("actions/configure-pages@v6", workflow)
+        self.assertIn("actions/upload-pages-artifact@v5", workflow)
+        self.assertIn("actions/deploy-pages@v5", workflow)
+        self.assertLess(workflow.index("python scripts/refresh.py"), workflow.index("actions/upload-pages-artifact@v5"))
+
     def test_refresh_cli_is_runnable(self):
         result = subprocess.run(
             [sys.executable, str(ROOT / "scripts" / "refresh.py"), "--help"],
