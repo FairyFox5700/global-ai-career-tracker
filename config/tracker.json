@@ -1,0 +1,64 @@
+{
+  "product_name": "Global AI Career Tracker",
+  "owner": "Iryna",
+  "preferences": {
+    "minimum_total_compensation_eur": 120000,
+    "preferred_travel_percent": [25, 40],
+    "work_mix": ["hands-on engineering", "architecture", "customers"],
+    "visa_friendly_countries": [
+      "Germany", "Netherlands", "Ireland", "United Kingdom", "Switzerland",
+      "France", "Denmark", "Sweden", "Norway", "United States", "Canada",
+      "Singapore", "Australia", "United Arab Emirates"
+    ]
+  },
+  "target_roles": [
+    "Forward Deployed Engineer", "Applied AI Engineer", "Applied AI Architect",
+    "AI Customer Engineer", "Cloud Customer Engineer", "Delivery Architect",
+    "Solutions Architect", "Field Engineer", "Solutions Engineer", "Deployment Engineer",
+    "Principal Technical Consultant", "Technical Account Architect", "Customer Success Architect"
+  ],
+  "ranking_weights": {
+    "role_blend": 30,
+    "travel": 20,
+    "compensation": 20,
+    "visa": 15,
+    "skill_seniority": 10,
+    "freshness_source": 5
+  },
+  "travel_recruiter_questions": [
+    "What percentage of travel did this team actually average over the last two quarters?",
+    "Is travel mostly planned customer visits or short-notice escalations?",
+    "How many overnight trips and international trips should I expect in a typical month?",
+    "Are travel days counted as working days, and how are weekend journeys handled?",
+    "Can travel be clustered into predictable weeks, and are there protected no-travel periods?",
+    "Which expenses, booking classes, and recovery time are covered by policy?"
+  ],
+  "sources": [
+    {"company": "Databricks", "kind": "greenhouse", "board": "databricks"},
+    {"company": "OpenAI", "kind": "ashby", "board": "openai"},
+    {"company": "Anthropic", "kind": "greenhouse", "board": "anthropic"},
+    {"company": "Celonis", "kind": "greenhouse", "board": "celonis"},
+    {
+      "company": "Google Cloud",
+      "kind": "google",
+      "search_url": "https://www.google.com/about/careers/applications/jobs/results/?q=customer%20engineer%20AI"
+    },
+    {
+      "company": "Salesforce",
+      "kind": "workday",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "site": "External_Career_Site",
+      "base_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+    },
+    {
+      "company": "NVIDIA",
+      "kind": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "base_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+    },
+    {"company": "Aircall", "kind": "greenhouse", "board": "aircall"}
+  ]
+}

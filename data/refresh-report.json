@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-11-09T20:24:33Z",
+  "job_count": 569,
+  "sources_ok": [
+    "Databricks",
+    "OpenAI",
+    "Anthropic",
+    "Celonis",
+    "Salesforce",
+    "NVIDIA"
+  ],
+  "sources_failed": [
+    "Google Cloud",
+    "Aircall"
+  ],
+  "sources": [
+    {
+      "company": "Databricks",
+      "status": "ok",
+      "jobs": 340
+    },
+    {
+      "company": "OpenAI",
+      "status": "ok",
+      "jobs": 126
+    },
+    {
+      "company": "Anthropic",
+      "status": "ok",
+      "jobs": 69
+    },
+    {
+      "company": "Celonis",
+      "status": "ok",
+      "jobs": 29
+    },
+    {
+      "company": "Google Cloud",
+      "status": "error",
+      "error": "RuntimeError: Google Careers returned no official job result links",
+      "jobs_preserved": 0
+    },
+    {
+      "company": "Salesforce",
+      "status": "ok",
+      "jobs": 4
+    },
+    {
+      "company": "NVIDIA",
+      "status": "ok",
+      "jobs": 1
+    },
+    {
+      "company": "Aircall",
+      "status": "error",
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "jobs_preserved": 0
+    }
+  ]
+}

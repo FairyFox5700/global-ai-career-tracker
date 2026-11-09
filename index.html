@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A local-first dashboard for global, visa-aware AI career opportunities.">
+  <title>Global AI Career Tracker</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#jobs">Skip to opportunities</a>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Iryna's opportunity intelligence</p>
+      <h1>Global AI Career Tracker</h1>
+      <p class="subtitle">High-income, visa-aware roles that blend engineering, architecture, and customers.</p>
+    </div>
+    <button id="export-csv" class="primary" type="button">Export filtered CSV</button>
+  </header>
+
+  <main>
+    <section class="metrics" aria-label="Tracker summary">
+      <article><span id="visible-count">—</span><small>matching roles</small></article>
+      <article><span>€120k</span><small>minimum target</small></article>
+      <article><span>25–40%</span><small>preferred travel</small></article>
+      <article><span id="last-updated">—</span><small>last refresh</small></article>
+    </section>
+
+    <section class="panel source-panel" aria-labelledby="source-title">
+      <div>
+        <p class="eyebrow">Data quality</p>
+        <h2 id="source-title">Official source health</h2>
+      </div>
+      <div id="source-health" class="source-health" aria-live="polite">Loading source report…</div>
+    </section>
+
+    <section class="workspace">
+      <aside class="filters panel" aria-label="Opportunity filters">
+        <div class="filter-heading">
+          <div><p class="eyebrow">Focus</p><h2>Filters</h2></div>
+          <button id="reset-filters" class="text-button" type="button">Reset</button>
+        </div>
+        <label>Search
+          <input id="search" type="search" placeholder="Role, company, location">
+        </label>
+        <label>Company
+          <select id="company-filter"><option value="">All companies</option></select>
+        </label>
+        <label>Visa signal
+          <select id="visa-filter">
+            <option value="">All signals</option>
+            <option value="sponsored">Sponsorship stated</option>
+            <option value="supported">Support stated</option>
+            <option value="unknown">Needs validation</option>
+            <option value="not_supported">Not supported</option>
+          </select>
+        </label>
+        <label>Pipeline status
+          <select id="status-filter">
+            <option value="">All statuses</option>
+            <option value="new">New</option><option value="reviewing">Reviewing</option>
+            <option value="applied">Applied</option><option value="interviewing">Interviewing</option>
+            <option value="offer">Offer</option><option value="archived">Archived</option>
+          </select>
+        </label>
+        <label>Minimum score <output id="min-score-value">0</output>
+          <input id="min-score" type="range" min="0" max="100" value="0">
+        </label>
+        <label class="check"><input id="remote-only" type="checkbox"> Remote-friendly only</label>
+        <label class="check"><input id="include-rejected" type="checkbox"> Show verified below-target roles</label>
+      </aside>
+
+      <section class="results" aria-labelledby="results-title">
+        <div class="results-heading">
+          <div><p class="eyebrow">Ranked opportunities</p><h2 id="results-title">Best-fit roles</h2></div>
+          <p id="result-summary" aria-live="polite"></p>
+        </div>
+        <div id="jobs" class="job-list" aria-live="polite"></div>
+      </section>
+    </section>
+
+    <details id="travel-help" class="panel help-panel">
+      <summary>Travel questions for recruiter conversations</summary>
+      <p>Turn “up to” into a realistic weekly picture before accepting a role.</p>
+      <ol id="travel-questions"></ol>
+    </details>
+  </main>
+
+  <footer>Statuses stay in this browser. Listings link directly to official company sources.</footer>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
