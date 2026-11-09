@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-11-09T20:24:33Z",
-  "job_count": 569,
+  "generated_at": "2026-11-09T20:33:04Z",
+  "job_count": 399,
   "sources_ok": [
     "Databricks",
     "OpenAI",
     "Anthropic",
     "Celonis",
     "Salesforce",
-    "NVIDIA"
+    "NVIDIA",
+    "Aircall"
   ],
   "sources_failed": [
-    "Google Cloud",
-    "Aircall"
+    "Google Cloud"
   ],
   "sources": [
     {
       "company": "Databricks",
       "status": "ok",
-      "jobs": 340
+      "jobs": 232
     },
     {
       "company": "OpenAI",
       "status": "ok",
-      "jobs": 126
+      "jobs": 84
     },
     {
       "company": "Anthropic",
       "status": "ok",
-      "jobs": 69
+      "jobs": 44
     },
     {
       "company": "Celonis",
       "status": "ok",
-      "jobs": 29
+      "jobs": 18
     },
     {
       "company": "Google Cloud",
@@ -48,13 +48,12 @@
     {
       "company": "NVIDIA",
       "status": "ok",
-      "jobs": 1
+      "jobs": 0
     },
     {
       "company": "Aircall",
-      "status": "error",
-      "error": "HTTPError: HTTP Error 404: Not Found",
-      "jobs_preserved": 0
+      "status": "ok",
+      "jobs": 17
     }
   ]
 }

@@ -19,6 +19,9 @@ class ConfigTests(unittest.TestCase):
         self.assertEqual(120000, config["preferences"]["minimum_total_compensation_eur"])
         self.assertEqual([25, 40], config["preferences"]["preferred_travel_percent"])
         self.assertIn("Germany", config["preferences"]["visa_friendly_countries"])
+        self.assertIn("india", config["preferences"]["excluded_location_terms"])
+        aircall = next(source for source in config["sources"] if source["company"] == "Aircall")
+        self.assertEqual("aircallioinc", aircall["board"])
 
     def test_no_source_requires_secrets(self):
         config = json.loads((ROOT / "config" / "tracker.json").read_text(encoding="utf-8"))

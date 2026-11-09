@@ -17,7 +17,10 @@ def main():
     parser.add_argument("--report", type=Path, default=ROOT / "data" / "refresh-report.json")
     args = parser.parse_args()
     config = json.loads(args.config.read_text(encoding="utf-8"))
-    report = refresh(config["sources"], args.data, args.report)
+    report = refresh(
+        config["sources"], args.data, args.report,
+        excluded_location_terms=config["preferences"].get("excluded_location_terms", []),
+    )
     print(json.dumps(report, indent=2))
     return 0
 

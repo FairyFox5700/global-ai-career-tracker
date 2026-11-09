@@ -5,6 +5,11 @@
     "minimum_total_compensation_eur": 120000,
     "preferred_travel_percent": [25, 40],
     "work_mix": ["hands-on engineering", "architecture", "customers"],
+    "excluded_location_terms": [
+      "india", "bangalore", "bengaluru", "mumbai", "delhi", "hyderabad",
+      "brazil", "sao paulo", "são paulo", "mexico", "south korea", "seoul",
+      "japan", "tokyo", "mainland china"
+    ],
     "visa_friendly_countries": [
       "Germany", "Netherlands", "Ireland", "United Kingdom", "Switzerland",
       "France", "Denmark", "Sweden", "Norway", "United States", "Canada",
@@ -59,6 +64,6 @@
       "site": "NVIDIAExternalCareerSite",
       "base_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
     },
-    {"company": "Aircall", "kind": "greenhouse", "board": "aircall"}
+    {"company": "Aircall", "kind": "greenhouse", "board": "aircallioinc"}
   ]
 }

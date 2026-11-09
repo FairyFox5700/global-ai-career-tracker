@@ -30,6 +30,8 @@ class SiteContractTests(unittest.TestCase):
         self.assertIn('"raw_url"', script)
         self.assertIn('"spreadsheet_link"', script)
         self.assertIn('HYPERLINK(', script)
+        self.assertIn("safeSpreadsheetText", script)
+        self.assertIn("/^[=+\\-@]/", script)
 
     def test_styles_include_mobile_and_reduced_motion_support(self):
         styles = (ROOT / "assets" / "styles.css").read_text(encoding="utf-8")

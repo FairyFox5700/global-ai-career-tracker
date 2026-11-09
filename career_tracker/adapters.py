@@ -2,12 +2,25 @@ import html
 import re
 from urllib.parse import urljoin
 
-TARGET_ROLE_PHRASES = (
-    "forward deployed", "fde", "applied ai", "ai engineer", "ai architect",
-    "customer engineer", "delivery architect", "solutions architect", "solution architect",
-    "field engineer", "solutions engineer", "solution engineer", "deployment engineer",
-    "technical consultant", "customer success architect", "technical account",
-)
+TARGET_ROLE_PATTERNS = tuple(re.compile(pattern, re.I) for pattern in (
+    r"\bforward deployed\b", r"\bfde\b",
+    r"\bapplied ai (?:engineer|architect)\b",
+    r"\bapplied ai solution (?:engineer|architect|consultant)\b",
+    r"\bai platform engineer\b", r"\bai deployment engineer\b",
+    r"\b(?:ai |cloud )?customer engineer\b",
+    r"\bdelivery (?:solutions? )?architect\b",
+    r"\bsolutions? architect\b", r"\bfield engineer\b",
+    r"\bsolutions? engineer\b", r"\bdeployment engineer\b",
+    r"\bdeployment lead\b", r"\btechnical consultant\b",
+    r"\bcustomer success architect\b", r"\btechnical account architect\b",
+))
+
+EXCLUDED_ROLE_PATTERNS = tuple(re.compile(pattern, re.I) for pattern in (
+    r"\brecruit(?:er|ing)\b", r"\baccounting\b", r"\bintern(?:ship)?\b",
+    r"\bgraduate\b", r"\bmanager\b", r"\bdirector\b", r"\bhead of\b",
+    r"\bprogram manager\b", r"\bengagement manager\b", r"\benablement\b",
+    r"\bstrategist\b",
+))
 
 
 def _text(value):
@@ -16,8 +29,11 @@ def _text(value):
 
 
 def _target(title):
-    lower = (title or "").lower()
-    return any(phrase in lower for phrase in TARGET_ROLE_PHRASES)
+    text = title or ""
+    return (
+        not any(pattern.search(text) for pattern in EXCLUDED_ROLE_PATTERNS)
+        and any(pattern.search(text) for pattern in TARGET_ROLE_PATTERNS)
+    )
 
 
 def _evidence(text):
@@ -56,15 +72,26 @@ def _travel(text):
 def _compensation(text):
     clean = _text(text)
     match = re.search(
-        r"(?:EUR|€)\s*([\d,.]+)\s*(?:-|–|to)\s*(?:EUR|€)?\s*([\d,.]+)(?:\s*per\s*year|\s*annually)?",
+        r"(?P<prefix>US\$|C\$|A\$|\$|£|€|EUR|USD|GBP|CAD|AUD|CHF|SGD|AED)\s*"
+        r"(?P<low>[\d,.]+)\s*(?:-|–|—|to)\s*"
+        r"(?:(?:US\$|C\$|A\$|\$|£|€|EUR|USD|GBP|CAD|AUD|CHF|SGD|AED)\s*)?"
+        r"(?P<high>[\d,.]+)\s*(?P<suffix>EUR|USD|GBP|CAD|AUD|CHF|SGD|AED)?"
+        r"(?:\s*per\s*year|\s*annually)?",
         clean,
         re.I,
     )
     if not match:
         return None
-    low = float(match.group(1).replace(",", ""))
-    high = float(match.group(2).replace(",", ""))
-    return {"currency": "EUR", "min": int(low), "max": int(high), "period": "year", "verified": True}
+    prefix = match.group("prefix").upper()
+    suffix = (match.group("suffix") or "").upper()
+    symbol_currency = {
+        "€": "EUR", "£": "GBP", "$": "USD", "US$": "USD",
+        "C$": "CAD", "A$": "AUD",
+    }
+    currency = suffix or symbol_currency.get(prefix, prefix)
+    low = float(match.group("low").replace(",", ""))
+    high = float(match.group("high").replace(",", ""))
+    return {"currency": currency, "min": int(low), "max": int(high), "period": "year", "verified": True}
 
 
 def _excerpt(text, limit=420):
@@ -73,12 +100,13 @@ def _excerpt(text, limit=420):
 
 def _base(company, source, source_id, title, locations, url, posted_at, description):
     visa_status, visa_evidence = _evidence(description)
+    locations = [location for location in locations if location]
     return {
         "id": f"{company}:{source_id}",
         "source_id": str(source_id),
         "company": company,
         "title": title,
-        "locations": [location for location in locations if location],
+        "locations": locations,
         "remote": "remote" in " ".join(locations).lower(),
         "url": url,
         "posted_at": posted_at,

@@ -62,6 +62,26 @@ class RefreshTests(unittest.TestCase):
             self.assertEqual(0, result["job_count"])
             self.assertEqual([], json.loads(data_path.read_text(encoding="utf-8"))["jobs"])
 
+    def test_excludes_configured_out_of_scope_locations(self):
+        specs = [{"company": "Example", "kind": "greenhouse", "board": "example"}]
+        payload = {"jobs": [
+            {"id": 1, "title": "Solutions Architect", "absolute_url": "https://example.com/1",
+             "location": {"name": "Berlin, Germany"}},
+            {"id": 2, "title": "Solutions Architect", "absolute_url": "https://example.com/2",
+             "location": {"name": "Bangalore, India"}},
+        ]}
+        with tempfile.TemporaryDirectory() as tmp:
+            data_path = Path(tmp) / "jobs.json"
+            report_path = Path(tmp) / "report.json"
+            result = refresh(
+                specs, data_path, report_path, fetcher=lambda spec: payload,
+                excluded_location_terms=["india", "bangalore"],
+            )
+            saved = json.loads(data_path.read_text(encoding="utf-8"))["jobs"]
+            self.assertEqual(1, result["job_count"])
+            self.assertEqual("Solutions Architect", saved[0]["title"])
+            self.assertEqual(["Berlin, Germany"], saved[0]["locations"])
+
 
 if __name__ == "__main__":
     unittest.main()

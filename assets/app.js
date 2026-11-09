@@ -133,6 +133,10 @@ function populateConfig() {
   (state.config.travel_recruiter_questions || []).forEach(question => questions.append(el("li", "", question)));
 }
 function csvCell(value) { return `"${String(value ?? "").replaceAll('"', '""')}"`; }
+function safeSpreadsheetText(value) {
+  const text = String(value ?? "");
+  return /^[=+\-@]/.test(text) ? `'${text}` : text;
+}
 function safeUrl(url) { return /^https:\/\//.test(url || "") ? url : ""; }
 function exportCsv() {
   const headers = ["company", "title", "locations", "score", "pipeline_status", "visa_status", "visa_evidence", "travel_percent", "compensation_status", "raw_url", "spreadsheet_link"];
@@ -141,7 +145,10 @@ function exportCsv() {
     const spreadsheet = raw ? `=HYPERLINK("${raw.replaceAll('"', '""')}","Open official role")` : "";
     return [job.company, job.title, (job.locations || []).join(" | "), job.score.total, statusFor(job), job.visa_status, job.visa_evidence, job.travel_percent, job.score.compensation_status, raw, spreadsheet];
   });
-  const csv = [headers.map(csvCell).join(","), ...rows.map(row => row.map(csvCell).join(","))].join("\r\n");
+  const serialize = (row, formulaColumn = false) => row.map((value, index) =>
+    csvCell(formulaColumn && index === 10 ? value : safeSpreadsheetText(value))
+  ).join(",");
+  const csv = [serialize(headers), ...rows.map(row => serialize(row, true))].join("\r\n");
   const blob = new Blob(["\ufeff", csv], { type: "text/csv;charset=utf-8" });
   const link = document.createElement("a");
   link.href = URL.createObjectURL(blob); link.download = "global-ai-career-tracker.csv"; link.click();

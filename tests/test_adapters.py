@@ -44,6 +44,41 @@ class AdapterTests(unittest.TestCase):
         self.assertEqual(25, job["travel_percent"])
         self.assertEqual("g-1", job["source_id"])
 
+    def test_title_filter_excludes_non_delivery_false_positives(self):
+        payload = {"jobs": [
+            {"id": 1, "title": "Recruiter, Applied AI", "absolute_url": "https://example.com/1", "location": {"name": "Berlin"}},
+            {"id": 2, "title": "Director, Technical Accounting", "absolute_url": "https://example.com/2", "location": {"name": "Berlin"}},
+            {"id": 3, "title": "Senior Perception AI Engineer", "absolute_url": "https://example.com/3", "location": {"name": "Berlin"}},
+            {"id": 4, "title": "Manager, Forward Deployed Engineering", "absolute_url": "https://example.com/4", "location": {"name": "Berlin"}},
+            {"id": 5, "title": "Intern Applied AI Solution Consulting", "absolute_url": "https://example.com/5", "location": {"name": "Berlin"}},
+            {"id": 6, "title": "Staff Forward Deployed Engineer", "absolute_url": "https://example.com/6", "location": {"name": "Berlin"}},
+            {"id": 7, "title": "Applied AI Architect", "absolute_url": "https://example.com/7", "location": {"name": "Berlin"}},
+            {"id": 8, "title": "AI Platform Engineer, Customer Delivery", "absolute_url": "https://example.com/8", "location": {"name": "Berlin"}},
+        ]}
+        jobs = normalize_greenhouse(payload, "Example")
+        self.assertEqual(
+            ["Staff Forward Deployed Engineer", "Applied AI Architect", "AI Platform Engineer, Customer Delivery"],
+            [job["title"] for job in jobs],
+        )
+
+    def test_compensation_parses_verified_usd_and_gbp_ranges(self):
+        payload = {"jobs": [
+            {"id": 1, "title": "Forward Deployed Engineer", "absolute_url": "https://example.com/1",
+             "location": {"name": "New York"},
+             "content": "Annual Salary: $280,000 — $320,000 USD"},
+            {"id": 2, "title": "Solutions Architect", "absolute_url": "https://example.com/2",
+             "location": {"name": "London"},
+             "content": "Base salary £120,000 - £160,000 per year"},
+        ]}
+        jobs = normalize_greenhouse(payload, "Example")
+        self.assertEqual(
+            [
+                {"currency": "USD", "min": 280000, "max": 320000, "period": "year", "verified": True},
+                {"currency": "GBP", "min": 120000, "max": 160000, "period": "year", "verified": True},
+            ],
+            [job["compensation"] for job in jobs],
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

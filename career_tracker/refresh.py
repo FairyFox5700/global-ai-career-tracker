@@ -41,7 +41,7 @@ def _normalize(spec, payload):
     raise ValueError(f"Unsupported source kind: {kind}")
 
 
-def refresh(specs, data_path, report_path, fetcher=fetch_source):
+def refresh(specs, data_path, report_path, fetcher=fetch_source, excluded_location_terms=None):
     generated_at = _utc_now()
     previous = _read_previous(data_path)
     jobs = []
@@ -54,6 +54,15 @@ def refresh(specs, data_path, report_path, fetcher=fetch_source):
         try:
             payload = fetcher(spec)
             normalized = _normalize(spec, payload)
+            excluded_terms = [term.casefold() for term in (excluded_location_terms or [])]
+            if excluded_terms:
+                normalized = [
+                    job for job in normalized
+                    if not any(
+                        term in " ".join(job.get("locations") or []).casefold()
+                        for term in excluded_terms
+                    )
+                ]
             jobs.extend(normalized)
             sources_ok.append(company)
             source_results.append({"company": company, "status": "ok", "jobs": len(normalized)})
