@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T20:33:04Z",
+  "generated_at": "2026-11-09T20:36:16Z",
   "count": 399,
   "jobs": [
     {
@@ -531,17 +531,17 @@
       }
     },
     {
-      "id": "Databricks:8735545002",
-      "source_id": "8735545002",
+      "id": "Databricks:8476496002",
+      "source_id": "8476496002",
       "company": "Databricks",
       "title": "Delivery Solutions Architect",
       "locations": [
-        "Atlanta, Georgia; Remote - Colorado; Remote - Texas"
+        "Brisbane, Australia; Melbourne, Australia; Western Australia, Australia"
       ],
-      "remote": true,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735545002",
-      "posted_at": "2026-10-06T15:33:30-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ427R310</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databrick",
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476496002",
+      "posted_at": "2026-10-06T06:22:25-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ327R30</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks",
       "travel_percent": 30,
       "compensation": null,
       "visa_status": "unknown",
@@ -597,50 +597,17 @@
       }
     },
     {
-      "id": "Databricks:8476496002",
-      "source_id": "8476496002",
+      "id": "Databricks:8735545002",
+      "source_id": "8735545002",
       "company": "Databricks",
       "title": "Delivery Solutions Architect",
       "locations": [
-        "Brisbane, Australia; Melbourne, Australia; Western Australia, Australia"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476496002",
-      "posted_at": "2026-10-06T06:22:25-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ327R30</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks",
-      "travel_percent": 30,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 71,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 20,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 3
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8548986002",
-      "source_id": "8548986002",
-      "company": "Databricks",
-      "title": "Delivery Solutions Architect - Digital Native Business",
-      "locations": [
-        "Remote - California; Remote - Oregon; Remote - Washington"
+        "Atlanta, Georgia; Remote - Colorado; Remote - Texas"
       ],
       "remote": true,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548986002",
-      "posted_at": "2026-10-06T06:26:48-04:00",
-      "description_excerpt": "<p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks platform in your customers. You will al",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735545002",
+      "posted_at": "2026-10-06T15:33:30-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ427R310</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databrick",
       "travel_percent": 30,
       "compensation": null,
       "visa_status": "unknown",
@@ -674,6 +641,39 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736473002",
       "posted_at": "2026-10-07T12:59:53-04:00",
       "description_excerpt": "<p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data and AI problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will partner with Sales, Solutions Architecture, and Field Engineering to accelerate adoption and growth of the Databricks platform. You will serve as a trusted technical advisor, helping customers design,",
+      "travel_percent": 30,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 71,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 20,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 3
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8548986002",
+      "source_id": "8548986002",
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Digital Native Business",
+      "locations": [
+        "Remote - California; Remote - Oregon; Remote - Washington"
+      ],
+      "remote": true,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548986002",
+      "posted_at": "2026-10-06T06:26:48-04:00",
+      "description_excerpt": "<p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks platform in your customers. You will al",
       "travel_percent": 30,
       "compensation": null,
       "visa_status": "unknown",
@@ -927,17 +927,17 @@
       }
     },
     {
-      "id": "Databricks:8907990002",
-      "source_id": "8907990002",
+      "id": "Databricks:8860663002",
+      "source_id": "8860663002",
       "company": "Databricks",
       "title": "Delivery Solutions Architect",
       "locations": [
-        "Canada"
+        "Stockholm, Sweden"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907990002",
-      "posted_at": "2026-11-02T12:59:37-05:00",
-      "description_excerpt": "<p>REQ ID - CSQ128R75</p> <p>Location: Vancouver, BC | Calgary, AB | Edmonton, AB / Toronto, ON /&nbsp; Montreal, QC</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and fi",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860663002",
+      "posted_at": "2026-11-05T10:37:10-05:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\"><strong>CSQ427R259</strong></p> <p data-pm-slice=\"1 1 []\">Locations - Sweden, Denmark, Finland (Hybrid/Remote)</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems with the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you are a trusted technical advisor to key customers, providing expert guidance tha",
       "travel_percent": 30,
       "compensation": null,
       "visa_status": "unknown",
@@ -960,17 +960,17 @@
       }
     },
     {
-      "id": "Databricks:8860663002",
-      "source_id": "8860663002",
+      "id": "Databricks:8907990002",
+      "source_id": "8907990002",
       "company": "Databricks",
       "title": "Delivery Solutions Architect",
       "locations": [
-        "Stockholm, Sweden"
+        "Canada"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860663002",
-      "posted_at": "2026-11-05T10:37:10-05:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\"><strong>CSQ427R259</strong></p> <p data-pm-slice=\"1 1 []\">Locations - Sweden, Denmark, Finland (Hybrid/Remote)</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems with the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you are a trusted technical advisor to key customers, providing expert guidance tha",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907990002",
+      "posted_at": "2026-11-02T12:59:37-05:00",
+      "description_excerpt": "<p>REQ ID - CSQ128R75</p> <p>Location: Vancouver, BC | Calgary, AB | Edmonton, AB / Toronto, ON /&nbsp; Montreal, QC</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and fi",
       "travel_percent": 30,
       "compensation": null,
       "visa_status": "unknown",
@@ -1422,39 +1422,6 @@
       }
     },
     {
-      "id": "Databricks:8494142002",
-      "source_id": "8494142002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-      "locations": [
-        "Boston, Massachusetts"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002",
-      "posted_at": "2026-11-05T22:34:44-05:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R310</p> <p class=\"p1\">Candidates located anywhere within the Central or Eastern Time Zones are also eligible for consideration for this role.</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implemen",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 63,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 5
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
       "id": "Databricks:8494145002",
       "source_id": "8494145002",
       "company": "Databricks",
@@ -1521,81 +1488,15 @@
       }
     },
     {
-      "id": "Databricks:8494144002",
-      "source_id": "8494144002",
+      "id": "Databricks:8494142002",
+      "source_id": "8494142002",
       "company": "Databricks",
       "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "locations": [
-        "Dallas, Texas"
+        "Boston, Massachusetts"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
-      "posted_at": "2026-11-05T22:34:44-05:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R310</p> <p class=\"p1\">Candidates located anywhere within the Central or Eastern Time Zones are also eligible for consideration for this role.</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implemen",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 63,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 5
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8494143002",
-      "source_id": "8494143002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-      "locations": [
-        "Chicago, Illinois"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002",
-      "posted_at": "2026-11-05T22:34:44-05:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R310</p> <p class=\"p1\">Candidates located anywhere within the Central or Eastern Time Zones are also eligible for consideration for this role.</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implemen",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 63,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 5
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8494148002",
-      "source_id": "8494148002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
-      "locations": [
-        "Philadelphia, Pennsylvania"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002",
       "posted_at": "2026-11-05T22:34:44-05:00",
       "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R310</p> <p class=\"p1\">Candidates located anywhere within the Central or Eastern Time Zones are also eligible for consideration for this role.</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implemen",
       "travel_percent": 20,
@@ -1653,17 +1554,83 @@
       }
     },
     {
-      "id": "Databricks:8494156002",
-      "source_id": "8494156002",
+      "id": "Databricks:8494148002",
+      "source_id": "8494148002",
       "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
       "locations": [
-        "Seattle, Washington"
+        "Philadelphia, Pennsylvania"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002",
-      "posted_at": "2026-11-05T21:49:16-05:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R319</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002",
+      "posted_at": "2026-11-05T22:34:44-05:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R310</p> <p class=\"p1\">Candidates located anywhere within the Central or Eastern Time Zones are also eligible for consideration for this role.</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implemen",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 63,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 5
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8494143002",
+      "source_id": "8494143002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "locations": [
+        "Chicago, Illinois"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002",
+      "posted_at": "2026-11-05T22:34:44-05:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R310</p> <p class=\"p1\">Candidates located anywhere within the Central or Eastern Time Zones are also eligible for consideration for this role.</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implemen",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 63,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 5
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8494144002",
+      "source_id": "8494144002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "locations": [
+        "Dallas, Texas"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
+      "posted_at": "2026-11-05T22:34:44-05:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R310</p> <p class=\"p1\">Candidates located anywhere within the Central or Eastern Time Zones are also eligible for consideration for this role.</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implemen",
       "travel_percent": 20,
       "compensation": null,
       "visa_status": "unknown",
@@ -1719,15 +1686,15 @@
       }
     },
     {
-      "id": "Databricks:8494154002",
-      "source_id": "8494154002",
+      "id": "Databricks:8494156002",
+      "source_id": "8494156002",
       "company": "Databricks",
       "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
       "locations": [
-        "Boston, Massachusetts"
+        "Seattle, Washington"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494156002",
       "posted_at": "2026-11-05T21:49:16-05:00",
       "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R319</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
       "travel_percent": 20,
@@ -1761,6 +1728,39 @@
       ],
       "remote": false,
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
+      "posted_at": "2026-11-05T21:49:16-05:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R319</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 63,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 5
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8494154002",
+      "source_id": "8494154002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "locations": [
+        "Boston, Massachusetts"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002",
       "posted_at": "2026-11-05T21:49:16-05:00",
       "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R319</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
       "travel_percent": 20,
@@ -1917,72 +1917,6 @@
       }
     },
     {
-      "id": "Databricks:8739474002",
-      "source_id": "8739474002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer",
-      "locations": [
-        "San Francisco, California"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002",
-      "posted_at": "2026-10-27T18:21:35-04:00",
-      "description_excerpt": "<p>CSQ427R94</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8739462002",
-      "source_id": "8739462002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer",
-      "locations": [
-        "New York City, New York"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002",
-      "posted_at": "2026-10-27T18:21:35-04:00",
-      "description_excerpt": "<p>CSQ427R94</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
       "id": "Databricks:8739458002",
       "source_id": "8739458002",
       "company": "Databricks",
@@ -2082,6 +2016,171 @@
       }
     },
     {
+      "id": "Databricks:8739474002",
+      "source_id": "8739474002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002",
+      "posted_at": "2026-10-27T18:21:35-04:00",
+      "description_excerpt": "<p>CSQ427R94</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8739462002",
+      "source_id": "8739462002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer",
+      "locations": [
+        "New York City, New York"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739462002",
+      "posted_at": "2026-10-27T18:21:35-04:00",
+      "description_excerpt": "<p>CSQ427R94</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8461163002",
+      "source_id": "8461163002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "locations": [
+        "San Francisco, California"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+      "posted_at": "2026-10-12T23:16:46-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8461222002",
+      "source_id": "8461222002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "locations": [
+        "Boston, Massachusetts"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
+      "posted_at": "2026-10-12T23:16:46-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8461226002",
+      "source_id": "8461226002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "locations": [
+        "New York City, New York"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
+      "posted_at": "2026-10-12T23:16:46-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
       "id": "Databricks:8461239002",
       "source_id": "8461239002",
       "company": "Databricks",
@@ -2115,180 +2214,15 @@
       }
     },
     {
-      "id": "Databricks:8461218002",
-      "source_id": "8461218002",
+      "id": "Databricks:8461241002",
+      "source_id": "8461241002",
       "company": "Databricks",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "locations": [
-        "Dallas, Texas"
+        "Washington, D.C."
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002",
-      "posted_at": "2026-10-12T23:16:46-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8461258002",
-      "source_id": "8461258002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "locations": [
-        "Raleigh, North Carolina"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
-      "posted_at": "2026-10-12T23:16:46-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8461251002",
-      "source_id": "8461251002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "locations": [
-        "Mountain View, California"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
-      "posted_at": "2026-10-12T23:16:46-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8461219002",
-      "source_id": "8461219002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "locations": [
-        "Austin, Texas"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002",
-      "posted_at": "2026-10-12T23:16:46-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Big Data Solutions Architect (Resident Solutions Architect) in our Professional Services team you will work with clients on short to medium term customer engagements on their big data challenges using the Databricks platform. You will provide data engineering, data science, and cloud technology projects which require integrating with client systems, training, and other",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8461193002",
-      "source_id": "8461193002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "locations": [
-        "Seattle, Washington"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
-      "posted_at": "2026-10-12T23:16:46-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic prior",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8461226002",
-      "source_id": "8461226002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "locations": [
-        "New York City, New York"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002",
       "posted_at": "2026-10-12T23:16:46-04:00",
       "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
       "travel_percent": 20,
@@ -2346,17 +2280,182 @@
       }
     },
     {
-      "id": "Databricks:8461163002",
-      "source_id": "8461163002",
+      "id": "Databricks:8461251002",
+      "source_id": "8461251002",
       "company": "Databricks",
       "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
       "locations": [
-        "San Francisco, California"
+        "Mountain View, California"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
       "posted_at": "2026-10-12T23:16:46-04:00",
       "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8461258002",
+      "source_id": "8461258002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "locations": [
+        "Raleigh, North Carolina"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
+      "posted_at": "2026-10-12T23:16:46-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8461220002",
+      "source_id": "8461220002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "locations": [
+        "Chicago, Illinois"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
+      "posted_at": "2026-10-12T23:16:46-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8461219002",
+      "source_id": "8461219002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002",
+      "posted_at": "2026-10-12T23:16:46-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Big Data Solutions Architect (Resident Solutions Architect) in our Professional Services team you will work with clients on short to medium term customer engagements on their big data challenges using the Databricks platform. You will provide data engineering, data science, and cloud technology projects which require integrating with client systems, training, and other",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8461218002",
+      "source_id": "8461218002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "locations": [
+        "Dallas, Texas"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002",
+      "posted_at": "2026-10-12T23:16:46-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8461193002",
+      "source_id": "8461193002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "locations": [
+        "Seattle, Washington"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002",
+      "posted_at": "2026-10-12T23:16:46-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic prior",
       "travel_percent": 20,
       "compensation": null,
       "visa_status": "unknown",
@@ -2445,171 +2544,6 @@
       }
     },
     {
-      "id": "Databricks:8461222002",
-      "source_id": "8461222002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "locations": [
-        "Boston, Massachusetts"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
-      "posted_at": "2026-10-12T23:16:46-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8461241002",
-      "source_id": "8461241002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "locations": [
-        "Washington, D.C."
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002",
-      "posted_at": "2026-10-12T23:16:46-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8461220002",
-      "source_id": "8461220002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
-      "locations": [
-        "Chicago, Illinois"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461220002",
-      "posted_at": "2026-10-12T23:16:46-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ127R318</p> <p>As a Sr. Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic p",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8592937002",
-      "source_id": "8592937002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "locations": [
-        "Boston, Massachusetts"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002",
-      "posted_at": "2026-10-30T14:24:36-04:00",
-      "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8592951002",
-      "source_id": "8592951002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "locations": [
-        "Charlotte, North Carolina"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002",
-      "posted_at": "2026-10-30T14:24:36-04:00",
-      "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
       "id": "Databricks:8592942002",
       "source_id": "8592942002",
       "company": "Databricks",
@@ -2619,72 +2553,6 @@
       ],
       "remote": false,
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002",
-      "posted_at": "2026-10-30T14:24:36-04:00",
-      "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8592939002",
-      "source_id": "8592939002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "locations": [
-        "Philadelphia, Pennsylvania"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
-      "posted_at": "2026-10-30T14:24:36-04:00",
-      "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 62,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8592952002",
-      "source_id": "8592952002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
-      "locations": [
-        "Washington, D.C."
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002",
       "posted_at": "2026-10-30T14:24:36-04:00",
       "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
       "travel_percent": 20,
@@ -2742,6 +2610,39 @@
       }
     },
     {
+      "id": "Databricks:8592951002",
+      "source_id": "8592951002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "locations": [
+        "Charlotte, North Carolina"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002",
+      "posted_at": "2026-10-30T14:24:36-04:00",
+      "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
       "id": "Databricks:8592928002",
       "source_id": "8592928002",
       "company": "Databricks",
@@ -2751,6 +2652,72 @@
       ],
       "remote": false,
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002",
+      "posted_at": "2026-10-30T14:24:36-04:00",
+      "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8592952002",
+      "source_id": "8592952002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "locations": [
+        "Washington, D.C."
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002",
+      "posted_at": "2026-10-30T14:24:36-04:00",
+      "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8592939002",
+      "source_id": "8592939002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "locations": [
+        "Philadelphia, Pennsylvania"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
       "posted_at": "2026-10-30T14:24:36-04:00",
       "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
       "travel_percent": 20,
@@ -2786,6 +2753,39 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002",
       "posted_at": "2026-10-30T14:24:35-04:00",
       "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priori",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 62,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8592937002",
+      "source_id": "8592937002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "locations": [
+        "Boston, Massachusetts"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002",
+      "posted_at": "2026-10-30T14:24:36-04:00",
+      "description_excerpt": "<p>CSQ327R59</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives al",
       "travel_percent": 20,
       "compensation": null,
       "visa_status": "unknown",
@@ -3039,17 +3039,17 @@
       }
     },
     {
-      "id": "Anthropic:5472677008",
-      "source_id": "5472677008",
+      "id": "Anthropic:5432583008",
+      "source_id": "5432583008",
       "company": "Anthropic",
       "title": "Applied AI Architect, Partnerships",
       "locations": [
-        "Sydney, Australia"
+        "London, UK"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472677008",
-      "posted_at": "2026-11-04T06:36:20-05:00",
-      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p>&nbsp;</p><h2>",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
+      "posted_at": "2026-11-04T02:56:24-05:00",
+      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the rol",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "sponsored",
@@ -3072,17 +3072,17 @@
       }
     },
     {
-      "id": "Anthropic:5432583008",
-      "source_id": "5432583008",
+      "id": "Anthropic:5472677008",
+      "source_id": "5472677008",
       "company": "Anthropic",
       "title": "Applied AI Architect, Partnerships",
       "locations": [
-        "London, UK"
+        "Sydney, Australia"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
-      "posted_at": "2026-11-04T02:56:24-05:00",
-      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2>About the rol",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472677008",
+      "posted_at": "2026-11-04T06:36:20-05:00",
+      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p>&nbsp;</p><h2>",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "sponsored",
@@ -3138,81 +3138,15 @@
       }
     },
     {
-      "id": "Databricks:8720251002",
-      "source_id": "8720251002",
+      "id": "Databricks:8704938002",
+      "source_id": "8704938002",
       "company": "Databricks",
       "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
       "locations": [
-        "Paris, France"
+        "London, United Kingdom"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
-      "posted_at": "2026-11-01T02:36:41-05:00",
-      "description_excerpt": "<p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insights to make better decisions, faster. Customers rely on Databricks for the full range of data workloads, including data engineering, ETL, ",
-      "travel_percent": null,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 61,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 6,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 10,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8720252002",
-      "source_id": "8720252002",
-      "company": "Databricks",
-      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-      "locations": [
-        "Amsterdam, Netherlands"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002",
-      "posted_at": "2026-11-01T02:36:41-05:00",
-      "description_excerpt": "<p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insights to make better decisions, faster. Customers rely on Databricks for the full range of data workloads, including data engineering, ETL, ",
-      "travel_percent": null,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 61,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 6,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 10,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8720253002",
-      "source_id": "8720253002",
-      "company": "Databricks",
-      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
-      "locations": [
-        "Berlin, Germany; Munich, Germany"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720253002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
       "posted_at": "2026-11-01T02:36:41-05:00",
       "description_excerpt": "<p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insights to make better decisions, faster. Customers rely on Databricks for the full range of data workloads, including data engineering, ETL, ",
       "travel_percent": null,
@@ -3270,15 +3204,81 @@
       }
     },
     {
-      "id": "Databricks:8704938002",
-      "source_id": "8704938002",
+      "id": "Databricks:8720253002",
+      "source_id": "8720253002",
       "company": "Databricks",
       "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
       "locations": [
-        "London, United Kingdom"
+        "Berlin, Germany; Munich, Germany"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720253002",
+      "posted_at": "2026-11-01T02:36:41-05:00",
+      "description_excerpt": "<p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insights to make better decisions, faster. Customers rely on Databricks for the full range of data workloads, including data engineering, ETL, ",
+      "travel_percent": null,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 61,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 6,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 10,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8720252002",
+      "source_id": "8720252002",
+      "company": "Databricks",
+      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+      "locations": [
+        "Amsterdam, Netherlands"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002",
+      "posted_at": "2026-11-01T02:36:41-05:00",
+      "description_excerpt": "<p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insights to make better decisions, faster. Customers rely on Databricks for the full range of data workloads, including data engineering, ETL, ",
+      "travel_percent": null,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 61,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 6,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 10,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8720251002",
+      "source_id": "8720251002",
+      "company": "Databricks",
+      "title": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
+      "locations": [
+        "Paris, France"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720251002",
       "posted_at": "2026-11-01T02:36:41-05:00",
       "description_excerpt": "<p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems. Our customers leverage the Databricks Data Intelligence Platform to power their mission critical Data and AI applications to improve how their organisations leverage data and insights to make better decisions, faster. Customers rely on Databricks for the full range of data workloads, including data engineering, ETL, ",
       "travel_percent": null,
@@ -3369,72 +3369,6 @@
       }
     },
     {
-      "id": "Databricks:8807049002",
-      "source_id": "8807049002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business ",
-      "locations": [
-        "Remote - New York"
-      ],
-      "remote": true,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002",
-      "posted_at": "2026-10-06T06:23:16-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ227R258</p> <p>As a Forward Deployed Engineer (FDE), you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks Platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic prio",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 61,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 3
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8807033002",
-      "source_id": "8807033002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business ",
-      "locations": [
-        "Remote - California"
-      ],
-      "remote": true,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807033002",
-      "posted_at": "2026-10-06T06:23:16-04:00",
-      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ227R258</p> <p>As a Forward Deployed Engineer (FDE), you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks Platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic prio",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 61,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 3
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
       "id": "Databricks:8647743002",
       "source_id": "8647743002",
       "company": "Databricks",
@@ -3468,15 +3402,15 @@
       }
     },
     {
-      "id": "Databricks:8807063002",
-      "source_id": "8807063002",
+      "id": "Databricks:8807049002",
+      "source_id": "8807049002",
       "company": "Databricks",
       "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business ",
       "locations": [
-        "Seattle, Washington"
+        "Remote - New York"
       ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807063002",
+      "remote": true,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002",
       "posted_at": "2026-10-06T06:23:16-04:00",
       "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ227R258</p> <p>As a Forward Deployed Engineer (FDE), you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks Platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic prio",
       "travel_percent": 20,
@@ -3534,6 +3468,72 @@
       }
     },
     {
+      "id": "Databricks:8807063002",
+      "source_id": "8807063002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business ",
+      "locations": [
+        "Seattle, Washington"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807063002",
+      "posted_at": "2026-10-06T06:23:16-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ227R258</p> <p>As a Forward Deployed Engineer (FDE), you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks Platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic prio",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 61,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 3
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8807033002",
+      "source_id": "8807033002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business ",
+      "locations": [
+        "Remote - California"
+      ],
+      "remote": true,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807033002",
+      "posted_at": "2026-10-06T06:23:16-04:00",
+      "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ227R258</p> <p>As a Forward Deployed Engineer (FDE), you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks Platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic prio",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 61,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 3
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
       "id": "Databricks:8807081002",
       "source_id": "8807081002",
       "company": "Databricks",
@@ -3545,6 +3545,39 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002",
       "posted_at": "2026-10-06T06:23:16-04:00",
       "description_excerpt": "<p data-pm-slice=\"1 1 []\">CSQ227R258</p> <p>As a Forward Deployed Engineer (FDE), you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks Platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic prio",
+      "travel_percent": 20,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 61,
+        "breakdown": {
+          "role_blend": 30,
+          "travel": 10,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 3
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8643895002",
+      "source_id": "8643895002",
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "locations": [
+        "Northeast - United States; Southeast - United States"
+      ],
+      "remote": false,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002",
+      "posted_at": "2026-10-06T06:44:41-04:00",
+      "description_excerpt": "<p>CSQ427R168</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives a",
       "travel_percent": 20,
       "compensation": null,
       "visa_status": "unknown",
@@ -3708,39 +3741,6 @@
       ],
       "remote": false,
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002",
-      "posted_at": "2026-10-06T06:44:41-04:00",
-      "description_excerpt": "<p>CSQ427R168</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives a",
-      "travel_percent": 20,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 61,
-        "breakdown": {
-          "role_blend": 30,
-          "travel": 10,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 3
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8643895002",
-      "source_id": "8643895002",
-      "company": "Databricks",
-      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
-      "locations": [
-        "Northeast - United States; Southeast - United States"
-      ],
-      "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002",
       "posted_at": "2026-10-06T06:44:41-04:00",
       "description_excerpt": "<p>CSQ427R168</p> <p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives a",
       "travel_percent": 20,
@@ -4398,39 +4398,6 @@
       }
     },
     {
-      "id": "Anthropic:4461444008",
-      "source_id": "4461444008",
-      "company": "Anthropic",
-      "title": "Applied AI Architect, Industries",
-      "locations": [
-        "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA"
-      ],
-      "remote": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
-      "posted_at": "2026-08-21T12:49:35-04:00",
-      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div> <h2><strong",
-      "travel_percent": null,
-      "compensation": null,
-      "visa_status": "sponsored",
-      "visa_evidence": "However, some roles may require more time in our offices.</p> <p><strong data-stringify-type=\"bold\">Visa sponsorship:</strong>&nbsp;We do sponsor visas!",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 59,
-        "breakdown": {
-          "role_blend": 22,
-          "travel": 6,
-          "compensation": 6,
-          "visa": 15,
-          "skill_seniority": 7,
-          "freshness_source": 3
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
       "id": "Anthropic:5390765008",
       "source_id": "5390765008",
       "company": "Anthropic",
@@ -4464,17 +4431,17 @@
       }
     },
     {
-      "id": "Anthropic:5390778008",
-      "source_id": "5390778008",
+      "id": "Anthropic:4461444008",
+      "source_id": "4461444008",
       "company": "Anthropic",
-      "title": "Applied AI Architect, Industries ",
+      "title": "Applied AI Architect, Industries",
       "locations": [
-        "Munich, Germany"
+        "New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390778008",
-      "posted_at": "2026-08-31T05:49:46-04:00",
-      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"headin",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
+      "posted_at": "2026-08-21T12:49:35-04:00",
+      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div> <h2><strong",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "sponsored",
@@ -4507,6 +4474,39 @@
       "remote": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390770008",
       "posted_at": "2026-08-28T16:45:34-04:00",
+      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"headin",
+      "travel_percent": null,
+      "compensation": null,
+      "visa_status": "sponsored",
+      "visa_evidence": "However, some roles may require more time in our offices.</p> <p><strong data-stringify-type=\"bold\">Visa sponsorship:</strong>&nbsp;We do sponsor visas!",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 59,
+        "breakdown": {
+          "role_blend": 22,
+          "travel": 6,
+          "compensation": 6,
+          "visa": 15,
+          "skill_seniority": 7,
+          "freshness_source": 3
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Anthropic:5390778008",
+      "source_id": "5390778008",
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Industries ",
+      "locations": [
+        "Munich, Germany"
+      ],
+      "remote": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390778008",
+      "posted_at": "2026-08-31T05:49:46-04:00",
       "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2 class=\"headin",
       "travel_percent": null,
       "compensation": null,
@@ -4728,17 +4728,17 @@
       }
     },
     {
-      "id": "Anthropic:5423029008",
-      "source_id": "5423029008",
+      "id": "Anthropic:5391021008",
+      "source_id": "5391021008",
       "company": "Anthropic",
       "title": "Forward Deployed Engineer",
       "locations": [
-        "London, UK"
+        "Paris, France"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008",
-      "posted_at": "2026-09-14T05:27:39-04:00",
-      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p><strong>About ",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391021008",
+      "posted_at": "2026-08-28T16:46:44-04:00",
+      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div>En tant que ",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "sponsored",
@@ -4761,17 +4761,17 @@
       }
     },
     {
-      "id": "Anthropic:5391021008",
-      "source_id": "5391021008",
+      "id": "Anthropic:5423029008",
+      "source_id": "5423029008",
       "company": "Anthropic",
       "title": "Forward Deployed Engineer",
       "locations": [
-        "Paris, France"
+        "London, UK"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391021008",
-      "posted_at": "2026-08-28T16:46:44-04:00",
-      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><div>En tant que ",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008",
+      "posted_at": "2026-09-14T05:27:39-04:00",
+      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><p><strong>About ",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "sponsored",
@@ -5124,16 +5124,16 @@
       }
     },
     {
-      "id": "Celonis:8173230003",
-      "source_id": "8173230003",
+      "id": "Celonis:8173186003",
+      "source_id": "8173186003",
       "company": "Celonis",
       "title": "Lead Deployment Engineer",
       "locations": [
-        "New York, US, New York"
+        "Raleigh, US, North Carolina"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8173230003?gh_jid=8173230003",
-      "posted_at": "2026-11-04T12:05:36-05:00",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8173186003?gh_jid=8173186003",
+      "posted_at": "2026-11-04T12:43:00-05:00",
       "description_excerpt": "<div class=\"content-intro\"><p>Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners",
       "travel_percent": 50,
       "compensation": null,
@@ -5157,16 +5157,16 @@
       }
     },
     {
-      "id": "Celonis:8173186003",
-      "source_id": "8173186003",
+      "id": "Celonis:8173230003",
+      "source_id": "8173230003",
       "company": "Celonis",
       "title": "Lead Deployment Engineer",
       "locations": [
-        "Raleigh, US, North Carolina"
+        "New York, US, New York"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/celonis/jobs/8173186003?gh_jid=8173186003",
-      "posted_at": "2026-11-04T12:43:00-05:00",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8173230003?gh_jid=8173230003",
+      "posted_at": "2026-11-04T12:05:36-05:00",
       "description_excerpt": "<div class=\"content-intro\"><p>Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blind spots into operational clarity. World's leading companies trust Celonis and its global ecosystem of partners",
       "travel_percent": 50,
       "compensation": null,
@@ -6186,16 +6186,16 @@
       }
     },
     {
-      "id": "Aircall:4427659009",
-      "source_id": "4427659009",
+      "id": "Aircall:4484560009",
+      "source_id": "4484560009",
       "company": "Aircall",
       "title": "Staff Customer Engineer, German speaking",
       "locations": [
-        "Paris Office"
+        "Berlin Office"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/aircallioinc/jobs/4427659009",
-      "posted_at": "2026-11-06T12:41:06-05:00",
+      "url": "https://job-boards.greenhouse.io/aircallioinc/jobs/4484560009",
+      "posted_at": "2026-11-06T12:43:04-05:00",
       "description_excerpt": "<div class=\"content-intro\"><p>Aircall is a unicorn AI-powered communications platform transforming how teams win with customers.<br><br>For over a decade, we’ve believed voice builds the strongest business relationships. We bring voice, SMS, WhatsApp, and 250+ integrations together on one seamless workspace—so every customer conversation drives revenue, resolves issues faster, and builds trust. Our AI Voice Agents ha",
       "travel_percent": null,
       "compensation": null,
@@ -6219,16 +6219,16 @@
       }
     },
     {
-      "id": "Aircall:4484560009",
-      "source_id": "4484560009",
+      "id": "Aircall:4427659009",
+      "source_id": "4427659009",
       "company": "Aircall",
       "title": "Staff Customer Engineer, German speaking",
       "locations": [
-        "Berlin Office"
+        "Paris Office"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/aircallioinc/jobs/4484560009",
-      "posted_at": "2026-11-06T12:43:04-05:00",
+      "url": "https://job-boards.greenhouse.io/aircallioinc/jobs/4427659009",
+      "posted_at": "2026-11-06T12:41:06-05:00",
       "description_excerpt": "<div class=\"content-intro\"><p>Aircall is a unicorn AI-powered communications platform transforming how teams win with customers.<br><br>For over a decade, we’ve believed voice builds the strongest business relationships. We bring voice, SMS, WhatsApp, and 250+ integrations together on one seamless workspace—so every customer conversation drives revenue, resolves issues faster, and builds trust. Our AI Voice Agents ha",
       "travel_percent": null,
       "compensation": null,
@@ -6648,15 +6648,15 @@
       }
     },
     {
-      "id": "Databricks:8231231002",
-      "source_id": "8231231002",
+      "id": "Databricks:8085877002",
+      "source_id": "8085877002",
       "company": "Databricks",
       "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
       "locations": [
-        "Remote - California"
+        "Remote - Illinois"
       ],
       "remote": true,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8231231002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8085877002",
       "posted_at": "2026-09-21T13:22:12-04:00",
       "description_excerpt": "<p>P-146</p> <p>While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations in various cities around the US.</p> <p>We are looking for experienced pre-sales professionals who have a successful track record helping large enterprises become more data-driven. Working with the Enterprise Account Executive (AE), the Enterprise SA defines and directs the techni",
       "travel_percent": 35,
@@ -6681,15 +6681,15 @@
       }
     },
     {
-      "id": "Databricks:8085877002",
-      "source_id": "8085877002",
+      "id": "Databricks:8231231002",
+      "source_id": "8231231002",
       "company": "Databricks",
       "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
       "locations": [
-        "Remote - Illinois"
+        "Remote - California"
       ],
       "remote": true,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8085877002",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8231231002",
       "posted_at": "2026-09-21T13:22:12-04:00",
       "description_excerpt": "<p>P-146</p> <p>While candidates in the listed locations are encouraged for this role, we are open to remote candidates in other locations in various cities around the US.</p> <p>We are looking for experienced pre-sales professionals who have a successful track record helping large enterprises become more data-driven. Working with the Enterprise Account Executive (AE), the Enterprise SA defines and directs the techni",
       "travel_percent": 35,
@@ -8001,16 +8001,16 @@
       }
     },
     {
-      "id": "Databricks:8929038002",
-      "source_id": "8929038002",
+      "id": "Databricks:8880391002",
+      "source_id": "8880391002",
       "company": "Databricks",
       "title": "Solutions Architect - Telco",
       "locations": [
-        "Denver, Colorado"
+        "Atlanta, Georgia"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929038002",
-      "posted_at": "2026-11-03T14:39:59-05:00",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880391002",
+      "posted_at": "2026-11-03T14:39:57-05:00",
       "description_excerpt": "<p>FEQ128R27<br><br><br>As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers’ data and AI strategy. You are developing a technical s",
       "travel_percent": null,
       "compensation": null,
@@ -8034,16 +8034,16 @@
       }
     },
     {
-      "id": "Databricks:8880391002",
-      "source_id": "8880391002",
+      "id": "Databricks:8929038002",
+      "source_id": "8929038002",
       "company": "Databricks",
       "title": "Solutions Architect - Telco",
       "locations": [
-        "Atlanta, Georgia"
+        "Denver, Colorado"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880391002",
-      "posted_at": "2026-11-03T14:39:57-05:00",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8929038002",
+      "posted_at": "2026-11-03T14:39:59-05:00",
       "description_excerpt": "<p>FEQ128R27<br><br><br>As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers’ data and AI strategy. You are developing a technical s",
       "travel_percent": null,
       "compensation": null,
@@ -9552,17 +9552,17 @@
       }
     },
     {
-      "id": "Anthropic:5390754008",
-      "source_id": "5390754008",
+      "id": "Anthropic:5390795008",
+      "source_id": "5390795008",
       "company": "Anthropic",
       "title": "Applied AI Engineer, Enterprise",
       "locations": [
-        "Paris, France"
+        "Munich, Germany"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
-      "posted_at": "2026-09-14T17:13:27-04:00",
-      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h3 class=\"mt-3 -",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
+      "posted_at": "2026-09-14T17:09:40-04:00",
+      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "sponsored",
@@ -9585,17 +9585,17 @@
       }
     },
     {
-      "id": "Anthropic:5390795008",
-      "source_id": "5390795008",
+      "id": "Anthropic:5390754008",
+      "source_id": "5390754008",
       "company": "Anthropic",
       "title": "Applied AI Engineer, Enterprise",
       "locations": [
-        "Munich, Germany"
+        "Paris, France"
       ],
       "remote": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
-      "posted_at": "2026-09-14T17:09:40-04:00",
-      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h2><strong>About",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
+      "posted_at": "2026-09-14T17:13:27-04:00",
+      "description_excerpt": "<div class=\"content-intro\"><h2><strong>About Anthropic</strong></h2> <p>Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.</p></div><h3 class=\"mt-3 -",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "sponsored",
@@ -9750,17 +9750,17 @@
       }
     },
     {
-      "id": "Databricks:8608603002",
-      "source_id": "8608603002",
+      "id": "Databricks:8437008002",
+      "source_id": "8437008002",
       "company": "Databricks",
       "title": "Solutions Architect",
       "locations": [
-        "Munich, Germany"
+        "Queensland, Australia"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8608603002",
-      "posted_at": "2026-10-06T06:38:04-04:00",
-      "description_excerpt": "<p data-renderer-start-pos=\"4616\">FEQ427R153</p> <p data-renderer-start-pos=\"4616\">At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We ",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437008002",
+      "posted_at": "2026-10-06T06:18:29-04:00",
+      "description_excerpt": "<p data-renderer-start-pos=\"1648\">FEQ427R64</p> <p data-renderer-start-pos=\"4616\"><strong>Location: Brisbane</strong></p> <p data-renderer-start-pos=\"4616\">At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our c",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "unknown",
@@ -9816,17 +9816,17 @@
       }
     },
     {
-      "id": "Databricks:8437008002",
-      "source_id": "8437008002",
+      "id": "Databricks:8608603002",
+      "source_id": "8608603002",
       "company": "Databricks",
       "title": "Solutions Architect",
       "locations": [
-        "Queensland, Australia"
+        "Munich, Germany"
       ],
       "remote": false,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8437008002",
-      "posted_at": "2026-10-06T06:18:29-04:00",
-      "description_excerpt": "<p data-renderer-start-pos=\"1648\">FEQ427R64</p> <p data-renderer-start-pos=\"4616\"><strong>Location: Brisbane</strong></p> <p data-renderer-start-pos=\"4616\">At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our c",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8608603002",
+      "posted_at": "2026-10-06T06:38:04-04:00",
+      "description_excerpt": "<p data-renderer-start-pos=\"4616\">FEQ427R153</p> <p data-renderer-start-pos=\"4616\">At Databricks, our core principles are at the heart of everything we do; creating a culture of proactiveness and a customer-centric mindset guides us to create a unified platform that makes data science and analytics accessible to everyone. We aim to inspire our customers to make informed decisions that push their business forward. We ",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "unknown",
@@ -9915,39 +9915,6 @@
       }
     },
     {
-      "id": "Databricks:8755476002",
-      "source_id": "8755476002",
-      "company": "Databricks",
-      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
-      "locations": [
-        "Remote - New York"
-      ],
-      "remote": true,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002",
-      "posted_at": "2026-10-06T06:23:12-04:00",
-      "description_excerpt": "<p data-renderer-start-pos=\"1648\">FEQ227R273<br><br>While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.&nbsp;<strong data-stringify-type=\"bold\">#CMEG</strong></p> <p>As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to cus",
-      "travel_percent": null,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 49,
-        "breakdown": {
-          "role_blend": 22,
-          "travel": 6,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 7,
-          "freshness_source": 3
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
       "id": "Databricks:8755492002",
       "source_id": "8755492002",
       "company": "Databricks",
@@ -9990,6 +9957,39 @@
       ],
       "remote": true,
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002",
+      "posted_at": "2026-10-06T06:23:12-04:00",
+      "description_excerpt": "<p data-renderer-start-pos=\"1648\">FEQ227R273<br><br>While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.&nbsp;<strong data-stringify-type=\"bold\">#CMEG</strong></p> <p>As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to cus",
+      "travel_percent": null,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 49,
+        "breakdown": {
+          "role_blend": 22,
+          "travel": 6,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 7,
+          "freshness_source": 3
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
+      "id": "Databricks:8755476002",
+      "source_id": "8755476002",
+      "company": "Databricks",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "locations": [
+        "Remote - New York"
+      ],
+      "remote": true,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002",
       "posted_at": "2026-10-06T06:23:12-04:00",
       "description_excerpt": "<p data-renderer-start-pos=\"1648\">FEQ227R273<br><br>While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.&nbsp;<strong data-stringify-type=\"bold\">#CMEG</strong></p> <p>As a Solutions Architect, you will lead the technical strategy for your customers — owning architecture discussions, driving platform adoption, and serving as a trusted advisor to cus",
       "travel_percent": null,
@@ -11961,6 +11961,39 @@
       }
     },
     {
+      "id": "Databricks:8892968002",
+      "source_id": "8892968002",
+      "company": "Databricks",
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "locations": [
+        "Remote - Sweden"
+      ],
+      "remote": true,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
+      "posted_at": "2026-10-15T14:25:33-04:00",
+      "description_excerpt": "<p><strong>REQ ID: FEQ227R147</strong></p> <p><strong>Location: Sweden (Remote/Hybrid) - will require travel across Europe</strong></p> <p><strong>Recruiter: Dina Hussain</strong></p> <h2><strong>About the Role</strong></h2> <p>We are looking for a Lead Solution Architect focused on Generative AI to support our <strong>EMEA Emerging Digital Natives and Startups </strong>business unit — one of the fastest-moving, most",
+      "travel_percent": null,
+      "compensation": null,
+      "visa_status": "unknown",
+      "visa_evidence": "No explicit visa language found in the official listing.",
+      "source": "greenhouse",
+      "source_status": "official",
+      "stale": false,
+      "score": {
+        "total": 43,
+        "breakdown": {
+          "role_blend": 12,
+          "travel": 6,
+          "compensation": 6,
+          "visa": 5,
+          "skill_seniority": 10,
+          "freshness_source": 4
+        },
+        "hard_reject": false,
+        "compensation_status": "needs_validation"
+      }
+    },
+    {
       "id": "Databricks:8892971002",
       "source_id": "8892971002",
       "company": "Databricks",
@@ -12005,39 +12038,6 @@
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892965002",
       "posted_at": "2026-10-15T14:24:44-04:00",
       "description_excerpt": "<p><strong>REQ ID: FEQ227R147</strong></p> <p><strong>Location: Netherlands (Remote/Hybrid) - will require travel across Europe</strong></p> <p><strong>Recruiter: Dina Hussain</strong></p> <h2><strong>About the Role</strong></h2> <p>We are looking for a Lead Solution Architect focused on Generative AI to support our <strong>EMEA Emerging Digital Natives and Startups </strong>business unit — one of the fastest-moving,",
-      "travel_percent": null,
-      "compensation": null,
-      "visa_status": "unknown",
-      "visa_evidence": "No explicit visa language found in the official listing.",
-      "source": "greenhouse",
-      "source_status": "official",
-      "stale": false,
-      "score": {
-        "total": 43,
-        "breakdown": {
-          "role_blend": 12,
-          "travel": 6,
-          "compensation": 6,
-          "visa": 5,
-          "skill_seniority": 10,
-          "freshness_source": 4
-        },
-        "hard_reject": false,
-        "compensation_status": "needs_validation"
-      }
-    },
-    {
-      "id": "Databricks:8892968002",
-      "source_id": "8892968002",
-      "company": "Databricks",
-      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
-      "locations": [
-        "Remote - Sweden"
-      ],
-      "remote": true,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002",
-      "posted_at": "2026-10-15T14:25:33-04:00",
-      "description_excerpt": "<p><strong>REQ ID: FEQ227R147</strong></p> <p><strong>Location: Sweden (Remote/Hybrid) - will require travel across Europe</strong></p> <p><strong>Recruiter: Dina Hussain</strong></p> <h2><strong>About the Role</strong></h2> <p>We are looking for a Lead Solution Architect focused on Generative AI to support our <strong>EMEA Emerging Digital Natives and Startups </strong>business unit — one of the fastest-moving, most",
       "travel_percent": null,
       "compensation": null,
       "visa_status": "unknown",
