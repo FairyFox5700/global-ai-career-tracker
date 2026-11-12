@@ -26,7 +26,7 @@ python -m compileall -q career_tracker scripts
 
 `config/tracker.json` is the source of truth for companies, preferences, target roles, weights, and recruiter travel questions. The refresh writes normalized, deduplicated records to `data/jobs.json` and source-level diagnostics to `data/refresh-report.json`.
 
-Only target-role results are retained. The generated JSON stores short official excerpts, visa evidence excerpts, and official links—not full job descriptions.
+Only target-role results are retained. The tracker keeps Senior, Sr., Lead, and Architect titles while excluding Staff and Principal roles. The generated JSON stores short official excerpts, visa evidence excerpts, and official links—not full job descriptions.
 
 The 100-point score is:
 

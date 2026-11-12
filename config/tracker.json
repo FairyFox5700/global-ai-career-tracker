@@ -5,6 +5,8 @@
     "minimum_total_compensation_eur": 120000,
     "preferred_travel_percent": [25, 40],
     "work_mix": ["hands-on engineering", "architecture", "customers"],
+    "allowed_seniority_terms": ["senior", "sr.", "lead", "architect"],
+    "excluded_seniority_terms": ["staff", "principal"],
     "excluded_location_terms": [
       "india", "bangalore", "bengaluru", "mumbai", "delhi", "hyderabad",
       "brazil", "sao paulo", "são paulo", "mexico", "south korea", "seoul",

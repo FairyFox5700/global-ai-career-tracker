@@ -20,6 +20,8 @@ def main():
     report = refresh(
         config["sources"], args.data, args.report,
         excluded_location_terms=config["preferences"].get("excluded_location_terms", []),
+        allowed_seniority_terms=config["preferences"].get("allowed_seniority_terms", []),
+        excluded_seniority_terms=config["preferences"].get("excluded_seniority_terms", []),
     )
     print(json.dumps(report, indent=2))
     return 0

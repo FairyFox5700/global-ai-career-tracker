@@ -82,6 +82,37 @@ class RefreshTests(unittest.TestCase):
             self.assertEqual("Solutions Architect", saved[0]["title"])
             self.assertEqual(["Berlin, Germany"], saved[0]["locations"])
 
+    def test_keeps_only_senior_lead_or_architect_and_excludes_staff_principal(self):
+        specs = [{"company": "Example", "kind": "greenhouse", "board": "example"}]
+        payload = {"jobs": [
+            {"id": 1, "title": "Forward Deployed Engineer", "absolute_url": "https://example.com/1",
+             "location": {"name": "Berlin"}},
+            {"id": 2, "title": "Senior Forward Deployed Engineer", "absolute_url": "https://example.com/2",
+             "location": {"name": "Berlin"}},
+            {"id": 3, "title": "Technical Deployment Lead", "absolute_url": "https://example.com/3",
+             "location": {"name": "Berlin"}},
+            {"id": 4, "title": "Applied AI Architect", "absolute_url": "https://example.com/4",
+             "location": {"name": "Berlin"}},
+            {"id": 5, "title": "Staff Forward Deployed Engineer", "absolute_url": "https://example.com/5",
+             "location": {"name": "Berlin"}},
+            {"id": 6, "title": "Principal Solutions Architect", "absolute_url": "https://example.com/6",
+             "location": {"name": "Berlin"}},
+        ]}
+        with tempfile.TemporaryDirectory() as tmp:
+            data_path = Path(tmp) / "jobs.json"
+            report_path = Path(tmp) / "report.json"
+            result = refresh(
+                specs, data_path, report_path, fetcher=lambda spec: payload,
+                allowed_seniority_terms=["senior", "sr.", "lead", "architect"],
+                excluded_seniority_terms=["staff", "principal"],
+            )
+            saved = json.loads(data_path.read_text(encoding="utf-8"))["jobs"]
+            self.assertEqual(3, result["job_count"])
+            self.assertEqual(
+                ["Applied AI Architect", "Senior Forward Deployed Engineer", "Technical Deployment Lead"],
+                sorted(job["title"] for job in saved),
+            )
+
 
 if __name__ == "__main__":
     unittest.main()
