@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T08:18:12Z",
+  "generated_at": "2026-11-12T13:48:52Z",
   "job_count": 284,
   "sources_ok": [
     "Databricks",
@@ -17,7 +17,7 @@
     {
       "company": "Databricks",
       "status": "ok",
-      "jobs": 208
+      "jobs": 209
     },
     {
       "company": "OpenAI",
@@ -27,7 +27,7 @@
     {
       "company": "Anthropic",
       "status": "ok",
-      "jobs": 29
+      "jobs": 28
     },
     {
       "company": "Celonis",
