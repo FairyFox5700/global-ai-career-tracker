@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-14T12:14:10Z",
-  "job_count": 276,
+  "generated_at": "2026-11-15T12:47:00Z",
+  "job_count": 277,
   "sources_ok": [
     "Databricks",
     "OpenAI",
     "Anthropic",
     "Celonis",
     "Salesforce",
+    "NVIDIA",
     "Aircall"
   ],
   "sources_failed": [
-    "Google Cloud",
-    "NVIDIA"
+    "Google Cloud"
   ],
   "sources": [
     {
@@ -47,9 +47,8 @@
     },
     {
       "company": "NVIDIA",
-      "status": "error",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-      "jobs_preserved": 1
+      "status": "ok",
+      "jobs": 2
     },
     {
       "company": "Aircall",
