@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T16:02:10Z",
-  "job_count": 294,
+  "generated_at": "2026-11-24T15:55:32Z",
+  "job_count": 298,
   "sources_ok": [
     "Databricks",
     "OpenAI",
@@ -17,17 +17,17 @@
     {
       "company": "Databricks",
       "status": "ok",
-      "jobs": 214
+      "jobs": 216
     },
     {
       "company": "OpenAI",
       "status": "ok",
-      "jobs": 20
+      "jobs": 21
     },
     {
       "company": "Anthropic",
       "status": "ok",
-      "jobs": 30
+      "jobs": 32
     },
     {
       "company": "Celonis",
@@ -43,7 +43,7 @@
     {
       "company": "Salesforce",
       "status": "ok",
-      "jobs": 2
+      "jobs": 0
     },
     {
       "company": "NVIDIA",
@@ -53,7 +53,7 @@
     {
       "company": "Aircall",
       "status": "ok",
-      "jobs": 5
+      "jobs": 6
     }
   ]
 }
