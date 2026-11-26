@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:33:00Z",
+  "generated_at": "2026-11-26T15:21:32Z",
   "job_count": 303,
   "sources_ok": [
     "Databricks",
@@ -43,12 +43,12 @@
     {
       "company": "Salesforce",
       "status": "ok",
-      "jobs": 2
+      "jobs": 3
     },
     {
       "company": "NVIDIA",
       "status": "ok",
-      "jobs": 2
+      "jobs": 1
     },
     {
       "company": "Aircall",
