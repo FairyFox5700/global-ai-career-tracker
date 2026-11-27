@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T15:21:32Z",
-  "job_count": 303,
+  "generated_at": "2026-11-27T15:09:23Z",
+  "job_count": 306,
   "sources_ok": [
     "Databricks",
     "OpenAI",
@@ -17,7 +17,7 @@
     {
       "company": "Databricks",
       "status": "ok",
-      "jobs": 216
+      "jobs": 217
     },
     {
       "company": "OpenAI",
@@ -43,12 +43,12 @@
     {
       "company": "Salesforce",
       "status": "ok",
-      "jobs": 3
+      "jobs": 4
     },
     {
       "company": "NVIDIA",
       "status": "ok",
-      "jobs": 1
+      "jobs": 2
     },
     {
       "company": "Aircall",
